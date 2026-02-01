@@ -6,19 +6,12 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
+    "newArchEnabled": false,
     "scheme": "biblesermonassistant",
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#1a365d"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0,
-      "url": "https://u.expo.dev/your-project-id"
-    },
-    "runtimeVersion": {
-      "policy": "appVersion"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -38,13 +31,11 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#1a365d"
       },
-      "edgeToEdgeEnabled": true,
       "permissions": [
         "android.permission.INTERNET",
         "android.permission.ACCESS_NETWORK_STATE",
         "com.android.vending.BILLING"
       ],
-      "googleServicesFile": "./google-services.json",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.biblesermonassistant.app"
     },
     "web": {
@@ -65,9 +56,9 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "your-eas-project-id"
+        "projectId": "14e552a6-25dd-442b-9052-4fcfbf7ebb31"
       }
     },
-    "owner": "biblesermonassistant"
+    "owner": "vishnu002"
   }
 }

@@ -1,49 +1,26 @@
 {
   "cli": {
-    "version": ">= 10.0.0",
+    "version": ">= 5.0.0",
     "appVersionSource": "local"
   },
   "build": {
-    "base": {
-      "node": "20.x",
-      "env": {
-        "EXPO_PUBLIC_ENV": "production"
-      }
-    },
     "development": {
-      "extends": "base",
       "developmentClient": true,
       "distribution": "internal",
-      "channel": "development",
       "android": {
-        "buildType": "apk",
-        "gradleCommand": ":app:assembleDebug"
-      },
-      "env": {
-        "EXPO_PUBLIC_ENV": "development"
+        "buildType": "apk"
       }
     },
     "preview": {
-      "extends": "base",
       "distribution": "internal",
-      "channel": "preview",
       "android": {
         "buildType": "apk"
-      },
-      "env": {
-        "EXPO_PUBLIC_ENV": "preview"
       }
     },
     "production": {
-      "extends": "base",
-      "channel": "production",
       "autoIncrement": true,
       "android": {
-        "buildType": "app-bundle",
-        "gradleCommand": ":app:bundleRelease"
-      },
-      "env": {
-        "EXPO_PUBLIC_ENV": "production"
+        "buildType": "app-bundle"
       }
     }
   },
