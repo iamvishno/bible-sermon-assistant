@@ -1,0 +1,30 @@
+{
+  "_INSTRUCTIONS": "Download this file from Firebase Console. Steps: 1) Go to console.firebase.google.com 2) Create new project 'BibleSermonAssistant' 3) Add Android app with package 'com.biblesermonassistant.app' 4) Download google-services.json and replace this file",
+  "project_info": {
+    "project_number": "YOUR_PROJECT_NUMBER",
+    "project_id": "biblesermonassistant",
+    "storage_bucket": "biblesermonassistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:YOUR_APP_ID:android:YOUR_HASH",
+        "android_client_info": {
+          "package_name": "com.biblesermonassistant.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "YOUR_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

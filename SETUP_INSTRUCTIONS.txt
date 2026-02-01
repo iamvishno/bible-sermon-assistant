@@ -1,0 +1,65 @@
+================================================================================
+AUTOMATED SETUP - ALMOST DONE!
+================================================================================
+
+PROGRESS SO FAR:
+[OK] Environment files created (backend/.env, .env)
+[OK] Supabase connection tested - WORKING!
+[OK] OpenAI API key tested - WORKING!
+[OK] Redis connection available
+
+NEXT STEP: Create Database Tables in Supabase
+================================================================================
+
+You need to run ONE SQL script in Supabase to create all tables.
+
+FOLLOW THESE EXACT STEPS:
+================================================================================
+
+Step 1: Open Supabase Dashboard
+---------------------------------
+Copy this URL and paste in your browser:
+https://aviassxdtdoqfcyesffg.supabase.co
+
+Step 2: Go to SQL Editor
+---------------------------------
+1. Look at LEFT SIDEBAR
+2. Click on "SQL Editor" icon (looks like </>)
+3. Click "+ New Query" button
+
+Step 3: Copy the SQL
+---------------------------------
+1. Open this file:
+   C:\Users\aivis\Desktop\BIBLE SERMON ASSISTANT\BibleSermonAssistant\backend\migrations\001_initial_schema.sql
+
+2. Press Ctrl+A to select all
+3. Press Ctrl+C to copy
+
+Step 4: Paste and Run
+---------------------------------
+1. In the Supabase SQL Editor, press Ctrl+V to paste
+2. Click the "RUN" button (green play button)
+3. Wait for it to finish (about 10-15 seconds)
+4. You should see "Success. No rows returned" or similar message
+
+Step 5: Verify
+---------------------------------
+In the left sidebar, click on "Table Editor"
+You should now see these 8 tables:
+- user_profiles
+- sermons
+- subscriptions
+- bookmarks
+- highlights
+- verse_notes
+- ai_cache
+- sync_operations
+
+IF YOU SEE THESE TABLES, YOU'RE DONE!
+
+================================================================================
+AFTER YOU RUN THE SQL, TELL ME:
+"Database tables created successfully!"
+
+Then I'll continue with the rest of the setup!
+================================================================================

@@ -1,0 +1,27 @@
+{
+  "defaultLanguage": "en-US",
+  "listings": {
+    "en-US": {
+      "title": "Bible Sermon Assistant",
+      "shortDescription": "AI-powered sermon generator for pastors with Telugu Bible reader",
+      "fullDescription": "Bible Sermon Assistant is the ultimate tool for pastors, preachers, and Bible study leaders. Generate powerful, Scripture-based sermons in seconds using advanced AI technology.\n\nKEY FEATURES:\n\n📖 COMPLETE TELUGU BIBLE\n• Full offline Bible in Telugu\n• Fast full-text search across all 66 books\n• Bookmark, highlight, and add notes to verses\n• Read anywhere without internet\n\n🎤 AI SERMON GENERATOR\n• Generate 10+ sermon types (Expository, Topical, Evangelistic, and more)\n• Choose from multiple durations (5-60 minutes)\n• Customize for your audience (youth, adults, families)\n• Add illustrations, applications, and call-to-action\n\n☁️ CLOUD SYNC\n• Sync sermons and notes across devices\n• Never lose your work\n• Access your library anywhere\n\n💼 SUBSCRIPTION TIERS:\n• Free: 3 sermons/month\n• Basic: 15 sermons/month + history\n• Standard: 50 sermons/month + cloud sync\n• Premium: Unlimited + priority support\n\nPERFECT FOR:\n• Pastors preparing weekly sermons\n• Guest speakers needing quick preparation\n• Bible study leaders\n• Seminary students\n• Anyone wanting to deepen their Scripture understanding\n\nOur AI is trained on sound theological principles to generate biblically accurate, contextually relevant sermons that honor Scripture.\n\nDownload now and transform your sermon preparation!",
+      "video": ""
+    },
+    "te": {
+      "title": "బైబిల్ సెర్మన్ అసిస్టెంట్",
+      "shortDescription": "తెలుగు బైబిల్ రీడర్‌తో పాస్టర్లకు AI-ఆధారిత ప్రసంగ జెనరేటర్",
+      "fullDescription": "బైబిల్ సెర్మన్ అసిస్టెంట్ పాస్టర్లు, బోధకులు మరియు బైబిల్ స్టడీ లీడర్ల కోసం అంతిమ సాధనం. అధునాతన AI టెక్నాలజీని ఉపయోగించి శక్తివంతమైన, లేఖనం ఆధారిత ప్రసంగాలను సెకన్లలో రూపొందించండి.\n\nముఖ్య లక్షణాలు:\n\n📖 పూర్తి తెలుగు బైబిల్\n• పూర్తి ఆఫ్‌లైన్ బైబిల్ తెలుగులో\n• అన్ని 66 పుస్తకాలలో వేగవంతమైన పూర్తి-వచన శోధన\n• బుక్‌మార్క్, హైలైట్ మరియు వచనాలకు నోట్స్ జోడించండి\n\n🎤 AI సెర్మన్ జెనరేటర్\n• 10+ సెర్మన్ రకాలను రూపొందించండి\n• బహుళ వ్యవధులు నుండి ఎంచుకోండి\n• మీ ప్రేక్షకుల కోసం అనుకూలీకరించండి\n\n☁️ క్లౌడ్ సింక్\n• పరికరాల్లో సెర్మన్లు మరియు నోట్స్ సింక్ చేయండి\n• ఎప్పటికీ మీ పనిని కోల్పోకండి\n\nఇప్పుడు డౌన్‌లోడ్ చేసి మీ సెర్మన్ తయారీని మార్చుకోండి!",
+      "video": ""
+    }
+  },
+  "categorization": {
+    "applicationCategory": "BOOKS_AND_REFERENCE",
+    "contentRating": "everyone",
+    "targetAudience": "pastors, preachers, bible study leaders, christians"
+  },
+  "contactDetails": {
+    "email": "support@biblesermonassistant.com",
+    "website": "https://biblesermonassistant.com",
+    "privacyPolicyUrl": "https://biblesermonassistant.com/privacy"
+  }
+}
